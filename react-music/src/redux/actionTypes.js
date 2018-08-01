@@ -1,0 +1,4 @@
+export const CHANGE_SONE ='CHANGE_SONE';
+export const REMOVE_SONG_FROM_LIST = 'REMOVE_SONG_FROM_LIST';
+export const SET_SONGS = 'SET_SONGS';
+export const SHOW_PLAYER = 'SHOW_PLAYER';
