@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "umi-plugin-datahub": "^0.1.2"
+  }
+}
